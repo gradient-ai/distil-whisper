@@ -2,7 +2,11 @@
 
 [[Paper]](https://arxiv.org/abs/2311.00430)
 [[Models]](https://huggingface.co/collections/distil-whisper/distil-whisper-models-65411987e6727569748d2eb6)
+## Launch Notebook
 
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/distil-whisper?machine=Free-GPU&ref=blog.paperspace.com)
+
+---
 
 [View our article breaking down this model on the Paperspace Blog](blog.paperspace.com/distill-whisper/)
 
