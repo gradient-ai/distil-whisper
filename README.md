@@ -2,7 +2,9 @@
 
 [[Paper]](https://arxiv.org/abs/2311.00430)
 [[Models]](https://huggingface.co/collections/distil-whisper/distil-whisper-models-65411987e6727569748d2eb6)
-[[Colab]](https://colab.research.google.com/github/sanchit-gandhi/notebooks/blob/main/Distil_Whisper_Benchmark.ipynb)
+
+
+[View our article breaking down this model on the Paperspace Blog](blog.paperspace.com/distill-whisper/)
 
 Distil-Whisper is a distilled version of Whisper that is **6 times faster**, 49% smaller, and performs **within 1% word 
 error rate (WER)** on out-of-distribution evaluation sets.
